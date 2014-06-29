@@ -1,0 +1,8 @@
+C:\Users\Radoslav\Desktop\DevelopmentTools\Demo\bin\Debug\Demo.exe.config
+C:\Users\Radoslav\Desktop\DevelopmentTools\Demo\bin\Debug\Demo.exe
+C:\Users\Radoslav\Desktop\DevelopmentTools\Demo\bin\Debug\Demo.pdb
+C:\Users\Radoslav\Desktop\DevelopmentTools\Demo\bin\Debug\log4net.dll
+C:\Users\Radoslav\Desktop\DevelopmentTools\Demo\bin\Debug\log4net.xml
+C:\Users\Radoslav\Desktop\DevelopmentTools\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+C:\Users\Radoslav\Desktop\DevelopmentTools\Demo\obj\Debug\Demo.exe
+C:\Users\Radoslav\Desktop\DevelopmentTools\Demo\obj\Debug\Demo.pdb

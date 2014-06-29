@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" ?>
+<project>
+	<file>App.config</file>
+	<file>Demo.csproj</file>
+	<file>Example.cs</file>
+	<file>packages.config</file>
+	<file>StyleCop.Cache</file>
+	<file>TextTemplate1.tt</file>
+	<file>TextTemplate1.xml</file>
+</project>
